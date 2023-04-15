@@ -1,0 +1,3 @@
+A simple package that provides a string encrypted by the cryptography.fernet module in class.
+This package also provide functions for producing an encryption key from a number of sources.
+A wrapper function - fernet_key, is available that produces a fernet compatible encryption key from a function that returns a string.

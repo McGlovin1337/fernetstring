@@ -1,0 +1,1 @@
+from fernetstring.fernetstr import FernetString

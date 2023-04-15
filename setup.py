@@ -9,7 +9,7 @@ def read(fname):
 
 setup(
     name="fernetstring",
-    version="0.1.0",
+    version="0.2.0",
     author="James Riach",
     author_email="james@jriach.co.uk",
     description=("A simple library used to encrypt strings"),
@@ -21,7 +21,7 @@ setup(
     packages=['fernetstring', 'tests'],
     long_description=read('README'),
     classifiers=[
-        "Development Status :: 1 - Planning",
+        "Development Status :: 3 - Alpha",
         "Topic :: Utilities",
     ],
     test_suite='tests',
